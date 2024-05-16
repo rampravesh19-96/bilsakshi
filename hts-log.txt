@@ -1,0 +1,162 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Thu, 16 May 2024 14:55:25 at https://billsakshi.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/*
+(webhttrack -q -%i -w https://billsakshi.com -O "/home/ramps/Desktop/bilsakshi" -n -%P -N0 -s2 -p7 -D -a -K0 -c4 -%k -A25000 -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -%s -%u )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:57:01	Warning: 	Moved Permanently for https://billsakshi.com/?p=536
+14:57:01	Warning: 	File has moved from https://billsakshi.com/?p=536 to https://billsakshi.com/pricing/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=873
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=873 to https://billsakshi.com/services/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=392
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=392 to https://billsakshi.com/support-faq/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=790
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=790 to https://billsakshi.com/contact/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=1
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=1 to https://billsakshi.com/uncategorized/hello-world/
+14:57:54	Error: 	"Method Not Allowed" (405) at link https://billsakshi.com/xmlrpc.php (from https://billsakshi.com/uncategorized/hello-world/)
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=146
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=146 to https://billsakshi.com/saas/why-startups-fail-11-mistakes-founders-keep-making/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=145
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=145 to https://billsakshi.com/business/the-8-step-process-we-used-to-start-a-successful-podcast/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=144
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=144 to https://billsakshi.com/business/be-remarkable-how-to-make-your-business-stand-out/
+14:57:54	Warning: 	Moved Permanently for https://billsakshi.com/?p=143
+14:57:54	Warning: 	File has moved from https://billsakshi.com/?p=143 to https://billsakshi.com/design/what-effect-will-ai-have-on-construction/
+14:57:58	Warning: 	Moved Permanently for https://billsakshi.com/?p=142
+14:57:58	Warning: 	File has moved from https://billsakshi.com/?p=142 to https://billsakshi.com/business/20-business-blogs-that-will-blow-your-mind/
+14:57:58	Warning: 	Moved Permanently for https://billsakshi.com/?p=141
+14:57:58	Warning: 	File has moved from https://billsakshi.com/?p=141 to https://billsakshi.com/design/the-best-saas-tools-to-boost-business-growth/
+14:57:58	Warning: 	Moved Permanently for https://billsakshi.com/?p=140
+14:57:58	Warning: 	File has moved from https://billsakshi.com/?p=140 to https://billsakshi.com/freelance/want-to-grow-your-business-you-need-a-growth-strategy/
+14:57:58	Warning: 	Moved Permanently for https://billsakshi.com/?p=139
+14:57:58	Warning: 	File has moved from https://billsakshi.com/?p=139 to https://billsakshi.com/design/tools-and-tips-to-successfully-organize-your-small-business/
+14:57:58	Warning: 	Moved Permanently for https://billsakshi.com/?p=138
+14:57:58	Warning: 	File has moved from https://billsakshi.com/?p=138 to https://billsakshi.com/marketing/writing-a-business-case-what-it-is-and-how-to-write/
+14:57:58	Warning: 	Moved Permanently for https://billsakshi.com/?p=147
+14:57:58	Warning: 	File has moved from https://billsakshi.com/?p=147 to https://billsakshi.com/design/5-stages-of-team-development-what-you-need-to-know/
+14:57:58	Warning: 	HTML file (373314 bytes) retransferred due to lack of cache: https://billsakshi.com/wp-json/
+14:57:58	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/pages/1204
+14:58:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2F
+14:58:05	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/pages/536
+14:58:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/pages/873
+14:58:08	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/pages/392
+14:58:10	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fpricing%2F
+14:58:11	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/pages/790
+14:58:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fservices%2F
+14:58:13	Warning: 	HTML file (1980 bytes) retransferred due to lack of cache: https://billsakshi.com/category/uncategorized/feed/
+14:58:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fsupport-faq%2F
+14:58:15	Warning: 	HTML file (784 bytes) retransferred due to lack of cache: https://billsakshi.com/uncategorized/hello-world/feed/
+14:58:16	Error: 	"Not Found" (404) at link https://billsakshi.com/xmlrpc.php?rsd (from https://billsakshi.com/)
+14:58:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2F&format=xml
+14:58:17	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fcontact%2F
+14:58:19	Warning: 	HTML file (883 bytes) retransferred due to lack of cache: https://billsakshi.com/saas/why-startups-fail-11-mistakes-founders-keep-making/feed/
+14:58:20	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/categories/1
+14:58:21	Warning: 	HTML file (101445 bytes) retransferred due to lack of cache: https://billsakshi.com/pricing/
+14:58:22	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/1
+14:58:23	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Funcategorized%2Fhello-world%2F
+14:58:24	Warning: 	HTML file (26137 bytes) retransferred due to lack of cache: https://billsakshi.com/category/saas/feed/
+14:58:26	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/146
+14:58:27	Warning: 	HTML file (908 bytes) retransferred due to lack of cache: https://billsakshi.com/business/the-8-step-process-we-used-to-start-a-successful-podcast/feed/
+14:58:28	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fsaas%2Fwhy-startups-fail-11-mistakes-founders-keep-making%2F
+14:58:31	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/categories/7
+14:58:32	Warning: 	HTML file (16089 bytes) retransferred due to lack of cache: https://billsakshi.com/category/business/feed/
+14:58:34	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/145
+14:58:35	Warning: 	HTML file (888 bytes) retransferred due to lack of cache: https://billsakshi.com/business/be-remarkable-how-to-make-your-business-stand-out/feed/
+14:58:35	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fbusiness%2Fthe-8-step-process-we-used-to-start-a-successful-podcast%2F
+14:58:39	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/categories/3
+14:58:40	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: https://billsakshi.com/design/what-effect-will-ai-have-on-construction/feed/
+14:58:41	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/144
+14:58:42	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fbusiness%2Fbe-remarkable-how-to-make-your-business-stand-out%2F
+14:58:42	Warning: 	HTML file (21092 bytes) retransferred due to lack of cache: https://billsakshi.com/category/design/feed/
+14:58:47	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/143
+14:58:47	Warning: 	HTML file (866 bytes) retransferred due to lack of cache: https://billsakshi.com/business/20-business-blogs-that-will-blow-your-mind/feed/
+14:58:48	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2Fwhat-effect-will-ai-have-on-construction%2F
+14:58:50	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/categories/4
+14:58:50	Warning: 	HTML file (21226 bytes) retransferred due to lack of cache: https://billsakshi.com/category/marketing/feed/
+14:58:52	Warning: 	HTML file (868 bytes) retransferred due to lack of cache: https://billsakshi.com/design/the-best-saas-tools-to-boost-business-growth/feed/
+14:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/142
+14:58:54	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fbusiness%2F20-business-blogs-that-will-blow-your-mind%2F
+14:58:55	Warning: 	HTML file (902 bytes) retransferred due to lack of cache: https://billsakshi.com/freelance/want-to-grow-your-business-you-need-a-growth-strategy/feed/
+14:58:56	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/categories/6
+14:58:59	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/141
+14:58:59	Warning: 	HTML file (11162 bytes) retransferred due to lack of cache: https://billsakshi.com/category/freelance/feed/
+14:59:01	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2Fthe-best-saas-tools-to-boost-business-growth%2F
+14:59:02	Warning: 	HTML file (913 bytes) retransferred due to lack of cache: https://billsakshi.com/design/tools-and-tips-to-successfully-organize-your-small-business/feed/
+14:59:02	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/140
+14:59:03	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Ffreelance%2Fwant-to-grow-your-business-you-need-a-growth-strategy%2F
+14:59:07	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/categories/5
+14:59:07	Warning: 	HTML file (896 bytes) retransferred due to lack of cache: https://billsakshi.com/marketing/writing-a-business-case-what-it-is-and-how-to-write/feed/
+14:59:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/139
+14:59:09	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2Ftools-and-tips-to-successfully-organize-your-small-business%2F
+14:59:09	Warning: 	HTML file (887 bytes) retransferred due to lack of cache: https://billsakshi.com/design/5-stages-of-team-development-what-you-need-to-know/feed/
+14:59:11	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=536
+14:59:12	Warning: 	Moved Permanently for https://billsakshi.com/?p=536
+14:59:12	Warning: 	File has moved from https://billsakshi.com/?p=536 to https://billsakshi.com/pricing/
+14:59:13	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fpricing%2F&format=xml (from https://billsakshi.com/pricing/)
+14:59:13	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/138
+14:59:14	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fmarketing%2Fwriting-a-business-case-what-it-is-and-how-to-write%2F
+14:59:15	Warning: 	HTML file (86444 bytes) retransferred due to lack of cache: https://billsakshi.com/marketing/writing-a-business-case-what-it-is-and-how-to-write/
+14:59:15	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/wp/v2/posts/147
+14:59:16	Warning: 	File seems complete (same size), but there was a cache read error (4294967295): https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2F5-stages-of-team-development-what-you-need-to-know%2F
+14:59:16	Warning: 	HTML file (763 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=873
+14:59:17	Warning: 	Moved Permanently for https://billsakshi.com/?p=873
+14:59:17	Warning: 	File has moved from https://billsakshi.com/?p=873 to https://billsakshi.com/services/
+14:59:18	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fservices%2F&format=xml (from https://billsakshi.com/services/)
+14:59:18	Warning: 	HTML file (769 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=392
+14:59:19	Warning: 	Moved Permanently for https://billsakshi.com/?p=392
+14:59:19	Warning: 	File has moved from https://billsakshi.com/?p=392 to https://billsakshi.com/support-faq/
+14:59:20	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fsupport-faq%2F&format=xml (from https://billsakshi.com/support-faq/)
+14:59:20	Warning: 	HTML file (761 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=790
+14:59:21	Warning: 	Moved Permanently for https://billsakshi.com/?p=790
+14:59:21	Warning: 	File has moved from https://billsakshi.com/?p=790 to https://billsakshi.com/contact/
+14:59:22	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fcontact%2F&format=xml (from https://billsakshi.com/contact/)
+14:59:22	Warning: 	HTML file (793 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=1
+14:59:23	Warning: 	Moved Permanently for https://billsakshi.com/?p=1
+14:59:23	Warning: 	File has moved from https://billsakshi.com/?p=1 to https://billsakshi.com/uncategorized/hello-world/
+14:59:24	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Funcategorized%2Fhello-world%2F&format=xml (from https://billsakshi.com/uncategorized/hello-world/)
+14:59:24	Warning: 	HTML file (857 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=146
+14:59:25	Warning: 	Moved Permanently for https://billsakshi.com/?p=146
+14:59:25	Warning: 	File has moved from https://billsakshi.com/?p=146 to https://billsakshi.com/saas/why-startups-fail-11-mistakes-founders-keep-making/
+14:59:26	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fsaas%2Fwhy-startups-fail-11-mistakes-founders-keep-making%2F&format=xml (from https://billsakshi.com/saas/why-startups-fail-11-mistakes-founders-keep-making/)
+14:59:26	Warning: 	HTML file (877 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=145
+14:59:27	Warning: 	Moved Permanently for https://billsakshi.com/?p=145
+14:59:27	Warning: 	File has moved from https://billsakshi.com/?p=145 to https://billsakshi.com/business/the-8-step-process-we-used-to-start-a-successful-podcast/
+14:59:28	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fbusiness%2Fthe-8-step-process-we-used-to-start-a-successful-podcast%2F&format=xml (from https://billsakshi.com/business/the-8-step-process-we-used-to-start-a-successful-podcast/)
+14:59:28	Warning: 	HTML file (863 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=144
+14:59:29	Warning: 	Moved Permanently for https://billsakshi.com/?p=144
+14:59:29	Warning: 	File has moved from https://billsakshi.com/?p=144 to https://billsakshi.com/business/be-remarkable-how-to-make-your-business-stand-out/
+14:59:30	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fbusiness%2Fbe-remarkable-how-to-make-your-business-stand-out%2F&format=xml (from https://billsakshi.com/business/be-remarkable-how-to-make-your-business-stand-out/)
+14:59:30	Warning: 	HTML file (841 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=143
+14:59:31	Warning: 	Moved Permanently for https://billsakshi.com/?p=143
+14:59:31	Warning: 	File has moved from https://billsakshi.com/?p=143 to https://billsakshi.com/design/what-effect-will-ai-have-on-construction/
+14:59:32	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2Fwhat-effect-will-ai-have-on-construction%2F&format=xml (from https://billsakshi.com/design/what-effect-will-ai-have-on-construction/)
+14:59:32	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=142
+14:59:33	Warning: 	Moved Permanently for https://billsakshi.com/?p=142
+14:59:33	Warning: 	File has moved from https://billsakshi.com/?p=142 to https://billsakshi.com/business/20-business-blogs-that-will-blow-your-mind/
+14:59:34	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fbusiness%2F20-business-blogs-that-will-blow-your-mind%2F&format=xml (from https://billsakshi.com/business/20-business-blogs-that-will-blow-your-mind/)
+14:59:34	Warning: 	HTML file (849 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=141
+14:59:35	Warning: 	Moved Permanently for https://billsakshi.com/?p=141
+14:59:35	Warning: 	File has moved from https://billsakshi.com/?p=141 to https://billsakshi.com/design/the-best-saas-tools-to-boost-business-growth/
+14:59:36	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2Fthe-best-saas-tools-to-boost-business-growth%2F&format=xml (from https://billsakshi.com/design/the-best-saas-tools-to-boost-business-growth/)
+14:59:36	Warning: 	HTML file (873 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=140
+14:59:37	Warning: 	Moved Permanently for https://billsakshi.com/?p=140
+14:59:37	Warning: 	File has moved from https://billsakshi.com/?p=140 to https://billsakshi.com/freelance/want-to-grow-your-business-you-need-a-growth-strategy/
+14:59:38	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Ffreelance%2Fwant-to-grow-your-business-you-need-a-growth-strategy%2F&format=xml (from https://billsakshi.com/freelance/want-to-grow-your-business-you-need-a-growth-strategy/)
+14:59:38	Warning: 	HTML file (879 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=139
+14:59:39	Warning: 	Moved Permanently for https://billsakshi.com/?p=139
+14:59:39	Warning: 	File has moved from https://billsakshi.com/?p=139 to https://billsakshi.com/design/tools-and-tips-to-successfully-organize-your-small-business/
+14:59:40	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2Ftools-and-tips-to-successfully-organize-your-small-business%2F&format=xml (from https://billsakshi.com/design/tools-and-tips-to-successfully-organize-your-small-business/)
+14:59:40	Warning: 	HTML file (869 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=138
+14:59:41	Warning: 	Moved Permanently for https://billsakshi.com/?p=138
+14:59:41	Warning: 	File has moved from https://billsakshi.com/?p=138 to https://billsakshi.com/marketing/writing-a-business-case-what-it-is-and-how-to-write/
+14:59:42	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fmarketing%2Fwriting-a-business-case-what-it-is-and-how-to-write%2F&format=xml (from https://billsakshi.com/marketing/writing-a-business-case-what-it-is-and-how-to-write/)
+14:59:42	Warning: 	HTML file (861 bytes) retransferred due to lack of cache: https://billsakshi.com/?p=147
+14:59:43	Warning: 	Moved Permanently for https://billsakshi.com/?p=147
+14:59:43	Warning: 	File has moved from https://billsakshi.com/?p=147 to https://billsakshi.com/design/5-stages-of-team-development-what-you-need-to-know/
+14:59:44	Error: 	"Bad Request" (400) at link https://billsakshi.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbillsakshi.com%2Fdesign%2F5-stages-of-team-development-what-you-need-to-know%2F&format=xml (from https://billsakshi.com/design/5-stages-of-team-development-what-you-need-to-know/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 19 seconds : 196 links scanned, 237 files written (6149399 bytes overall) [4495345 bytes received at 17356 bytes/sec], 2674774 bytes transferred using HTTP compression in 89 files, ratio 19%, 2.5 requests per connection
+(17 errors, 134 warnings, 0 messages)
